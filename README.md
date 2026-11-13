@@ -123,9 +123,9 @@ The application includes:
 
 👨‍💻 Developer
 
-GitHub: "Syedadilbasha" (https://github.com/shaiksameer7141)
+GitHub: "Syedadilbasha" (https://github.com/shaiksameer7141-svg)
 
-Project Repository: "CampusConnect" (https://github.com/shaiksameer7141/Campus-Connect)
+Project Repository: "CampusConnect" (https://github.com/shaiksameer7141-svg/Campus-Connect)
 
 📜 License
 
