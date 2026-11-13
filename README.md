@@ -65,7 +65,7 @@ Follow these steps to run the project:
 
 1. Clone the repository:
    
-   git clone https://github.com/Syedadilbasha/Campus-connect.git
+   git clone https://github.com/shaiksameer7141-svg/Campus-Connect.git
 
 2. Navigate to the project folder:
    
@@ -123,9 +123,9 @@ The application includes:
 
 👨‍💻 Developer
 
-GitHub: "Syedadilbasha" (https://github.com/Syedadilbasha)
+GitHub: "Syedadilbasha" (https://github.com/shaiksameer7141)
 
-Project Repository: "CampusConnect" (https://github.com/Syedadilbasha/Campus-connect)
+Project Repository: "CampusConnect" (https://github.com/shaiksameer7141/Campus-Connect)
 
 📜 License
 
